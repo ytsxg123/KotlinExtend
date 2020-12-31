@@ -1,0 +1,3 @@
+include ':extend'
+include ':app'
+rootProject.name = "My Application"
